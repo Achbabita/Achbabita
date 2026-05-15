@@ -55,4 +55,4 @@ More projects coming soon 🚀
 
 ## 🛠️ Tools & Technologies
 
-Python | Pandas | NumPy | SQL | PostgreSQL | Power BI | Excel | Git | GitHub
+Python | Pandas | NumPy | SQL | PostgreSQL | Power BI | Tableau | Matplotlib | Seaborn | Excel | Git | GitHub
