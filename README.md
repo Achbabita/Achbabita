@@ -14,7 +14,7 @@ I enjoy cleaning data, analyzing datasets, and creating dashboards that turn raw
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 * Data Cleaning Projects using Python & Pandas
 * SQL for Data Analysis
@@ -24,7 +24,7 @@ I enjoy cleaning data, analyzing datasets, and creating dashboards that turn raw
 
 ---
 
-## 📂 Projects
+##  Projects
 
 * IPL Data Analysis
 * eSewa Transaction Dashboard
@@ -36,7 +36,7 @@ More projects coming soon 🚀
 
 ---
 
-## 💬 Ask Me About
+##  Ask Me About
 
 * Python for Data Analysis
 * Pandas
@@ -46,13 +46,13 @@ More projects coming soon 🚀
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 * GitHub: https://github.com/Achbabita
 * LinkedIn: https://www.linkedin.com/in/babita-acharya/
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 Python | Pandas | NumPy | SQL | PostgreSQL | Power BI | Tableau | Matplotlib | Seaborn | Excel | Git | GitHub
